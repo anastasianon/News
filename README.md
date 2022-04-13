@@ -1,1 +1,1 @@
-<img src="Newss.gif" alt="video demo"/>
+<img src="newss.gif" alt="video demo"/>
